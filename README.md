@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bakryara11@gmail.com**
 
-- ⚡ Fun fact **Tennis is my game**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
