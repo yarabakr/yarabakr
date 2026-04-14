@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yara</h1>
-<h3 align="center">A passionate developer |Computer Science Student from Syria</h3>
+<h3 align="center">A Full Stack Developer |Computer Science Senior from Syria</h3>
 
-- 🔭 I’m currently working on [Travel Website](https://github.com/yarabakr/Beyond_Borders.git)
-
-- 🌱 I’m currently learning **Web developing**
+- 🔭 I’m currently working on [AI Interview Simulator]
 
 - 📫 How to reach me **bakryara11@gmail.com**
 
